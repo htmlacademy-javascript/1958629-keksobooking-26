@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Влас Горбачёв](https://up.htmlacademy.ru/javascript/26/user/1958629).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Ефимов](https://htmlacademy.ru/profile/efiand).
 
 ---
 
