@@ -32,6 +32,7 @@ const postData = (body, handleSuccess) => fetch(SERVER, {
     if (ok) {
       handleSuccess();
     }
-  });
+  })
+  .catch(() => createPopup('ERROR_POST'));
 
 export { getData, postData };
